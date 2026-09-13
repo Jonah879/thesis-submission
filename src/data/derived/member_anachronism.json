@@ -1,0 +1,8 @@
+{
+  "rows": 1130797,
+  "party_mismatch_rows": 3901,
+  "chamber_mismatch_rows": 33671,
+  "any_mismatch_rows": 36822,
+  "members_party_switched": 8,
+  "members_chamber_changed": 45
+}

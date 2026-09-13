@@ -1,0 +1,1 @@
+vote_id,bioguide,member_name,party,state,chamber,congress,bill_number,bill_title,vote_date,true_label,predicted_label,reasoning,prompt_tokens,completion_tokens,n_tweets_raw,n_tweets_used,competitiveness,had_bill_summary,retrieval_method,mean_similarity,timestamp

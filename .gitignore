@@ -1,0 +1,9 @@
+# house_votes_members.csv is 224 MB -- over GitHub's 100 MB hard per-file limit, so a
+# normal push would be rejected outright. Regenerate it locally via
+# `python preprocess_votes.py` (see README.md "What's excluded"), or ask the author for
+# the untouched original workspace, which still has it.
+src/data/house_votes_members.csv
+
+__pycache__/
+*.pyc
+.DS_Store

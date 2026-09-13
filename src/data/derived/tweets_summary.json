@@ -1,0 +1,12 @@
+{
+  "n_total": 4974695,
+  "n_created_at_nat": 0,
+  "n_with_bioguide": 3552190,
+  "pct_with_bioguide": 71.41,
+  "n_handles": 1072,
+  "n_handles_normalised": 1068,
+  "n_bioguides": 632,
+  "n_handles_unmapped": 432,
+  "date_min": "2010-11-06 00:19:17",
+  "date_max": "2026-05-01 01:29:09"
+}

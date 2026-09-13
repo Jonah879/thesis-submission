@@ -1,0 +1,23 @@
+# No requirements.txt existed in the original repo; this consolidates every import
+# actually used across pipeline/, the top-level scripts, and the analysis notebooks.
+#
+#   pip install -r requirements.txt
+
+pandas
+numpy
+openai
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+tqdm
+pyyaml
+jupyter
+nbformat
+nbconvert
+
+# Only needed to re-run src/notebooks/topic_analysis.ipynb (topic modelling over the
+# tweet corpus). Not needed for anything else in this package, including regenerating
+# any table or figure in table_figures.ipynb.
+# sentence-transformers
+# torch

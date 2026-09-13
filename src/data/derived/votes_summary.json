@@ -1,0 +1,94 @@
+{
+  "house": {
+    "rows": 1084850,
+    "junk_cols": [
+      "Unnamed: 0.2",
+      "Unnamed: 0.1",
+      "Unnamed: 0"
+    ],
+    "votes": 2513,
+    "members": 1145,
+    "null_bioguide": 0,
+    "date_min": "2007-01-09",
+    "date_max": "2026-04-30",
+    "vote_cast": {
+      "Yea": 796747,
+      "Nay": 243202,
+      "Not Voting": 44901
+    },
+    "party": {
+      "R": 547484,
+      "D": 537236,
+      "I": 130
+    },
+    "congress": {
+      "110": 125390,
+      "111": 115850,
+      "112": 97593,
+      "113": 106657,
+      "114": 111600,
+      "115": 130035,
+      "116": 79336,
+      "117": 136488,
+      "118": 97210,
+      "119": 84691
+    },
+    "blank_title": 1730,
+    "questions": {
+      "On Passage": 1367,
+      "On Motion to Suspend the Rules and Pass": 1093,
+      "On Agreeing to the Conference Report": 52,
+      "On Consideration of the Joint Resolution": 1
+    }
+  },
+  "senate": {
+    "rows": 212726,
+    "junk_cols": [
+      "Unnamed: 0.2",
+      "Unnamed: 0.1",
+      "Unnamed: 0"
+    ],
+    "votes": 2128,
+    "members": 225,
+    "null_bioguide": 0,
+    "date_min": "2007-01-16",
+    "date_max": "2026-04-30",
+    "vote_cast": {
+      "Yea": 136321,
+      "Nay": 66863,
+      "Not Voting": 9542
+    },
+    "party": {
+      "R": 105866,
+      "D": 102275,
+      "I": 4185,
+      "ID": 400
+    },
+    "congress": {
+      "110": 16989,
+      "111": 13250,
+      "112": 9696,
+      "113": 22497,
+      "114": 13700,
+      "115": 20197,
+      "116": 32200,
+      "117": 31100,
+      "118": 27299,
+      "119": 25798
+    },
+    "blank_title": 0,
+    "questions": {
+      "On the Cloture Motion": 1652,
+      "On Passage of the Bill": 282,
+      "On the Joint Resolution": 126,
+      "On the Conference Report": 50,
+      "On Overriding the Veto": 18
+    }
+  },
+  "combined": {
+    "rows": 1297576,
+    "yea_nay_rows": 1243133,
+    "votes": 4641,
+    "members": 1325
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "dup_pairs": 0,
+  "after_bioguide": [
+    1297576,
+    4641,
+    1325
+  ],
+  "after_yea_nay": [
+    1243133,
+    4641,
+    1324
+  ],
+  "nom_member_votes": 112336,
+  "sen_nom_votes": 1184,
+  "after_nominations": [
+    1130797,
+    3457,
+    1324
+  ],
+  "after_bill_title": [
+    1129123,
+    3453,
+    1324
+  ],
+  "after_covered_member": [
+    739860,
+    3453,
+    626
+  ],
+  "after_in_window": [
+    563364,
+    2638,
+    626
+  ]
+}
